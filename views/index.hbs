@@ -1,0 +1,17 @@
+<body>
+       <section id="main">
+        <header id="name">{{name}}</header>
+        <section id="socials">
+            {{#each social}}
+              <a href="https://{{link}}" class="{{name}} icon">
+                 <svg width="80" height="80" role="img" viewBox="0 0 24 24">
+                     <title>{{name}} Icon</title>
+                    <path d="{{icon.path}}"></path>
+                  </svg>
+                </a>
+            {{/each}}
+        </section>
+    <div class="credits">made by <a href="https://floofy.dev" class="creator">floofy.dev</a></div>
+   </section>
+</body>
+

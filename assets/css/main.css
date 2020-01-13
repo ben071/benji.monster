@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background-color: #2e40ff;
+}
+
+section#main {
+  text-align: center;
+  height: 100%;
+  background-color: #000000;
+}
+
+p.tip {
+  color: white;
+  font-size: 2vw;
+  padding-top: 40vh;
+}
+
+section#socials {
+  font-size: 5vw;
+  height: 80%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  text-align: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+a svg {
+  max-width: 3ch;
+}
+
+a {
+  margin: 2vw;
+}
+
+#main {
+  background: -webkit-gradient(linear, left bottom, right top, from(#000000), to(#2e40ff));
+  background: linear-gradient(to top right, #000000, #2e40ff);
+}
+
+header#name {
+  padding-left: 2vw;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  color: white;
+  font-size: 4vh;
+}
+
+.twitter {
+  fill: #1DA1F2;
+}
+
+.Discord {
+  fill: #7289da;
+}
+
+.Github {
+  fill: #181717;
+}
+
+.Instagram {
+  fill: #E4405F;
+}
+
+.FurAffinity {
+  fill: #FAAF3A;
+}
+
+.telegram {
+  fill: #2CA5E0;
+}
+
+.icon {
+  width: 100px;
+  -webkit-transition: all 1s ease-in-out .1s, -webkit-transform .5s;
+  transition: all 1s ease-in-out .1s, -webkit-transform .5s;
+  transition: transform .5s, all 1s ease-in-out .1s;
+  transition: transform .5s, all 1s ease-in-out .1s, -webkit-transform .5s;
+}
+
+.icon:hover {
+  -webkit-transform: translateY(-1vh);
+          transform: translateY(-1vh);
+}
+
+.credits {
+  font-size: 2.5vh;
+  padding: .5vh;
+  color: #ffffff49;
+  z-index: 999;
+  cursor: pointer;
+  pointer-events: none;
+}
+
+.credits a {
+  margin: 0;
+  padding: 0;
+  color: #ffffff49;
+  pointer-events: all;
+}
+
+.credits a:hover {
+  color: #ffffff49;
+}
+/*# sourceMappingURL=main.css.map */
