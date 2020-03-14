@@ -16,5 +16,5 @@
  2. Make sure all dependencies are installed by running the command `npm install`. 
  3. Run the server using the `run.sh` file or directly using `node run.js`.
 
-#### All credits go to [ry](https://floofy.dev) - [Original source.](https://gitdab.com/y/benji.monster)
+#### All credits go to [ry](https://werewolf.computer) - [Original source.](https://werewolf.codes/r/benji)
 
