@@ -9,12 +9,12 @@
 ## My [personal website.](https://benji.monster)
 
 ### Screenshots
-![Main view](https://i.reupload.gg/OTyp3bEZR.png)
+![Main view](https://e-six-two.one/i/ux79.png)
 
 ### Setup
  1. Install the latest version of node.js.
  2. Make sure all dependencies are installed by running the command `npm install`. 
  3. Run the server using the `run.sh` file or directly using `node run.js`.
 
-#### All credits go to [ry](https://werewolf.computer) - [Original source.](https://werewolf.codes/r/benji)
+#### All credits go to [hokkqi](https://hokkqido.download) - [Original source.](https://werewolf.codes/h/benji)
 
